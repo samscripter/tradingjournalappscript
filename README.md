@@ -1,6 +1,6 @@
 # Trading Journal Website
 
-Simple static website for the Trading Journal Google Sheets add-on.
+Simple static website for the Trading Journal add-on for Google Sheets™.
 
 ## Pages
 
@@ -30,4 +30,4 @@ Before publishing, replace the following placeholders:
 
 ## Screenshot
 
-Replace `assets/screenshot.png` with a real screenshot of the Trading Journal add-on in Google Sheets.
+Replace `assets/screenshot.png` with a real screenshot of the Trading Journal add-on in Google Sheets™.
